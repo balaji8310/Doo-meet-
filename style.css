@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: #1e1e1e;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+video {
+  width: 45%;
+  margin: 10px;
+  border: 2px solid #fff;
+  border-radius: 12px;
+}
